@@ -2,25 +2,36 @@
 
 > description
 
+- [repo name](#repo-name)
+  - [System requirements](#system-requirements)
+  - [Development](#development)
+  - [Building/Running](#buildingrunning)
+    - [ENVIRONMENT NAME](#environment-name)
+  - [Contributing](#contributing)
+  - [Changelog](#changelog)
+  - [License](#license)
+
+
 ## System requirements
 
 ## Development
 
 steps here
 
-## Building
+## Building/Running
 
-### ENVIRONMENT 1
-
-steps here
-
-### MORE ENVIRONMENTS IF NEEDED
+### ENVIRONMENT NAME
 
 steps here
 
 ## Contributing
 
 Add contributing guidelines
+
+## Changelog
+
+- generate the changelog with `./changelog.sh` or `bash /path/to/changelog.sh` (requires bash)
+- See the [Changelog](/CHANGELOG.md)
 
 ## License
 
